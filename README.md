@@ -84,4 +84,3 @@ bash kakaotalk.sh
 | 파일 | 설명 |
 |---|---|
 | `kakaotalk.sh` | 메인 런처 스크립트 |
-| `kakaotalk-tray.py` | GTK AppIndicator 트레이 데몬 (Wine 10.0에서 불필요, 참고용) |
